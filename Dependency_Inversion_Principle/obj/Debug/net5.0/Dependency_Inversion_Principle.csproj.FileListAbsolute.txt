@@ -1,0 +1,16 @@
+/home/johne/Study/Study/SOLID/Dependency_Inversion_Principle/obj/Debug/net5.0/Dependency_Inversion_Principle.csprojAssemblyReference.cache
+/home/johne/Study/Study/SOLID/Dependency_Inversion_Principle/obj/Debug/net5.0/Dependency_Inversion_Principle.GeneratedMSBuildEditorConfig.editorconfig
+/home/johne/Study/Study/SOLID/Dependency_Inversion_Principle/obj/Debug/net5.0/Dependency_Inversion_Principle.AssemblyInfoInputs.cache
+/home/johne/Study/Study/SOLID/Dependency_Inversion_Principle/obj/Debug/net5.0/Dependency_Inversion_Principle.AssemblyInfo.cs
+/home/johne/Study/Study/SOLID/Dependency_Inversion_Principle/obj/Debug/net5.0/Dependency_Inversion_Principle.csproj.CoreCompileInputs.cache
+/home/johne/Study/Study/SOLID/Dependency_Inversion_Principle/bin/Debug/net5.0/Dependency_Inversion_Principle
+/home/johne/Study/Study/SOLID/Dependency_Inversion_Principle/bin/Debug/net5.0/Dependency_Inversion_Principle.deps.json
+/home/johne/Study/Study/SOLID/Dependency_Inversion_Principle/bin/Debug/net5.0/Dependency_Inversion_Principle.runtimeconfig.json
+/home/johne/Study/Study/SOLID/Dependency_Inversion_Principle/bin/Debug/net5.0/Dependency_Inversion_Principle.runtimeconfig.dev.json
+/home/johne/Study/Study/SOLID/Dependency_Inversion_Principle/bin/Debug/net5.0/Dependency_Inversion_Principle.dll
+/home/johne/Study/Study/SOLID/Dependency_Inversion_Principle/bin/Debug/net5.0/ref/Dependency_Inversion_Principle.dll
+/home/johne/Study/Study/SOLID/Dependency_Inversion_Principle/bin/Debug/net5.0/Dependency_Inversion_Principle.pdb
+/home/johne/Study/Study/SOLID/Dependency_Inversion_Principle/obj/Debug/net5.0/Dependency_Inversion_Principle.dll
+/home/johne/Study/Study/SOLID/Dependency_Inversion_Principle/obj/Debug/net5.0/ref/Dependency_Inversion_Principle.dll
+/home/johne/Study/Study/SOLID/Dependency_Inversion_Principle/obj/Debug/net5.0/Dependency_Inversion_Principle.pdb
+/home/johne/Study/Study/SOLID/Dependency_Inversion_Principle/obj/Debug/net5.0/Dependency_Inversion_Principle.genruntimeconfig.cache

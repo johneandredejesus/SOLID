@@ -1,0 +1,16 @@
+/home/johne/Study/Study/SOLID/Open_Closed_Principle/bin/Debug/net5.0/Open_Closed_Principle
+/home/johne/Study/Study/SOLID/Open_Closed_Principle/bin/Debug/net5.0/Open_Closed_Principle.deps.json
+/home/johne/Study/Study/SOLID/Open_Closed_Principle/bin/Debug/net5.0/Open_Closed_Principle.runtimeconfig.json
+/home/johne/Study/Study/SOLID/Open_Closed_Principle/bin/Debug/net5.0/Open_Closed_Principle.runtimeconfig.dev.json
+/home/johne/Study/Study/SOLID/Open_Closed_Principle/bin/Debug/net5.0/Open_Closed_Principle.dll
+/home/johne/Study/Study/SOLID/Open_Closed_Principle/bin/Debug/net5.0/ref/Open_Closed_Principle.dll
+/home/johne/Study/Study/SOLID/Open_Closed_Principle/bin/Debug/net5.0/Open_Closed_Principle.pdb
+/home/johne/Study/Study/SOLID/Open_Closed_Principle/obj/Debug/net5.0/Open_Closed_Principle.csprojAssemblyReference.cache
+/home/johne/Study/Study/SOLID/Open_Closed_Principle/obj/Debug/net5.0/Open_Closed_Principle.GeneratedMSBuildEditorConfig.editorconfig
+/home/johne/Study/Study/SOLID/Open_Closed_Principle/obj/Debug/net5.0/Open_Closed_Principle.AssemblyInfoInputs.cache
+/home/johne/Study/Study/SOLID/Open_Closed_Principle/obj/Debug/net5.0/Open_Closed_Principle.AssemblyInfo.cs
+/home/johne/Study/Study/SOLID/Open_Closed_Principle/obj/Debug/net5.0/Open_Closed_Principle.csproj.CoreCompileInputs.cache
+/home/johne/Study/Study/SOLID/Open_Closed_Principle/obj/Debug/net5.0/Open_Closed_Principle.dll
+/home/johne/Study/Study/SOLID/Open_Closed_Principle/obj/Debug/net5.0/ref/Open_Closed_Principle.dll
+/home/johne/Study/Study/SOLID/Open_Closed_Principle/obj/Debug/net5.0/Open_Closed_Principle.pdb
+/home/johne/Study/Study/SOLID/Open_Closed_Principle/obj/Debug/net5.0/Open_Closed_Principle.genruntimeconfig.cache
